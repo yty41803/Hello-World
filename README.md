@@ -1,2 +1,2 @@
 # Hello-World
-Gitのお勉強
+**Gitのお勉強**
